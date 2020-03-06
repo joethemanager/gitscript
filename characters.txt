@@ -1,2 +1,5 @@
 Imran - He is the main hero of this novel.
 Rahul - He is the main villian of this novel.
+
+Jessica - She is the wife of Imran.
+Joe - He is cousin brother of Imran.
